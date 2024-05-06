@@ -1,17 +1,17 @@
-# �� Welcome to Ravi Kumar GitHub!
+# Welcome to Ravi Kumar GitHub!
 
 I'm a Frontend Engineer with a passion for building engaging products. I'm here to share my journey and collaborate on exciting projects!
 
-## �� About Me
+## About Me
 
-- �� Current Role: Frontend development at [Skuad](https://www.skuad.io/), enhancing our platform that simplifies global hiring and payroll in 160+ countries with intuitive and compliant user interfaces.
-- �� Tech Expertise: I bring life to designs using HTML, CSS, JavaScript, TypeScript, ReactJS, Next.js, and more.
-- ��‍�� Leadership: Experienced in leading dynamic teams towards success.
-- �� Product Mindset: Passionate about conceptualizing and creating impactful products.<!-- - �� Public Speaking: Love sharing knowledge through tech talks. Check out my [latest talk](Link to Tech Talk). -->
-- �� Learning: Currently exploring scalability and optimization techniques and micro forntend, along with designing robust systems capable code.<!-- - ��‍�� Mentorship: Love to guide and mentor. Connect with me on [Topmate](Your Topmate Profile Link). -->
-- �� Feel free to reach me at <raj.ravi.me@gmail.com>.
+- 👦🏻 Current Role: Frontend development at [Skuad](https://www.skuad.io/), enhancing our platform that simplifies global hiring and payroll in 160+ countries with intuitive and compliant user interfaces.
+- 💼 Tech Expertise: I bring life to designs using HTML, CSS, JavaScript, TypeScript, ReactJS, Next.js, and more.
 
-## ��️ Skills
+- 💻 Product Mindset: Passionate about conceptualizing and creating impactful products.<!-- - �� Public Speaking: Love sharing knowledge through tech talks. Check out my [latest talk](Link to Tech Talk). -->
+- 🙇🏻‍♂️ Learning: Currently exploring scalability and optimization techniques and micro forntend, along with designing robust systems capable code.
+- 📧 Feel free to reach me at <raj.ravi.me@gmail.com>.
+
+## 💻 Skills
 
 ### Frontend Development
 
@@ -36,7 +36,6 @@ I'm a Frontend Engineer with a passion for building engaging products. I'm here 
 
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
 
-
 ### Design Tools
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
@@ -45,13 +44,10 @@ I'm a Frontend Engineer with a passion for building engaging products. I'm here 
 
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 
-
 ### Cloud Platforms
 
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-
 ## �� Let's Connect
-
 - LinkedIn: [ravi-kumar-526892155](https://www.linkedin.com/in/ravi-kumar-526892155/)
