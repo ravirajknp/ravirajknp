@@ -54,4 +54,4 @@ I'm a Frontend Engineer with a passion for building engaging products. I'm here 
 
 ## �� Let's Connect
 
-- LinkedIn: [rishavpandey43](https://www.linkedin.com/in/ravi-kumar-526892155/)
+- LinkedIn: [ravi-kumar-526892155](https://www.linkedin.com/in/ravi-kumar-526892155/)
